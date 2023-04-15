@@ -1,0 +1,23 @@
+.main {
+    width: 100%;
+    height: 100vh;
+    background:  url("../../src/Assets/img.jpg") , rgba(0, 0,0, 0.1);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-size: 100% 100%;
+    padding-top: 10%; 
+    padding-left: 15%; 
+     /* display: flex;  */
+}
+
+.tbg{
+    color: blue;
+}
+
+.subDiv{
+    display: flex;
+}
+.ab{
+    display: flex
+}
+
